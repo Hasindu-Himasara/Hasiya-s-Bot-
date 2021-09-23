@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 
 API_ID = 7407598 
 API_HASH = '6e6622a5e352ee0c86cc558ca1c17de3'
-BOT_TOKEN = '1993601562:AAGQDgbhPdHh5HkGzW4TLVC4gBJaJiTGmC8'
+BOT_TOKEN = '1976380336:AAEfqFR3Lg4HMThRgEIbr9qtJ3j0PHBu-FM'
 
 bot = Client("Hasiya Bot",
              api_hash=API_HASH,
